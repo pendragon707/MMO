@@ -12,3 +12,6 @@
 - [Код](https://github.com/pendragon707/MMO/blob/master/lab3/lab3.ipynb)
 - [Отчёт](https://github.com/pendragon707/MMO/blob/master/lab3/lab3.pdf)
 
+## Рубежный контроль №1
+- [Код](https://github.com/pendragon707/MMO/blob/master/rk1/rk1.ipynb)
+- [Отчёт](https://github.com/pendragon707/MMO/blob/master/rk1/rk1.pdf)
