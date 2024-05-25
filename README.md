@@ -27,7 +27,7 @@
 - [Отчёт](https://github.com/pendragon707/MMO/blob/master/lab6/LR6.pdf)
 
 ## Лабораторная работа №7 (Actor-Critic)
-- [Код](https://github.com/pendragon707/MMO/blob/master/lab7/lunar.py)
+- [Код](https://github.com/pendragon707/MMO/blob/master/lab7/running.py)
 - [Отчёт](https://github.com/pendragon707/MMO/blob/master/lab7/LR7.pdf)
 
 ## Рубежный контроль №1
